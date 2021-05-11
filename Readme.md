@@ -16,9 +16,14 @@ Developed for fun in free time.. Archive it!! ;)
 by ..:: Hworange Rival ::..
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/user/MrHworange/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="hworange rival" height="30" width="40" /></a>
+<a href="https://www.youtube.com/user/MrHworange/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="You Tube: Hworange Rival" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://t.me/hworangerival" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="Telegram: @hworangerival" height="30" width="40" /></a>
 </p>
 
 
