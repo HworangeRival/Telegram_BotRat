@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="infocommandi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">---------- Basic Option ------------
+/info - info client system
+/setstartup - set startup
+/unsetstartup - unset startup
+/spc - set process as critical
+/unspc - set process as normal
+/nosleep - prevent pc sleep
+/end - terminate client
+/delnxbt - delete it on next boot
+/unistall - unistall client
+----------- Advanced Option ---
+/mbx/message - messagebox
+/exec/exebase64 - Memory LoadExe
+/execurl/.exe/URL - Load from URL
+----------- End Info ------------------
+/help - show this message
+
++----------------------------------------------+
+ |  Coded by Hworange Rival       |
++----------------------------------------------+   </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

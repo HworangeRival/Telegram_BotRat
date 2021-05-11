@@ -1,0 +1,29 @@
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\bin\Debug\StuBot.exe.config
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\bin\Debug\StuBot.exe
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\bin\Debug\StuBot.pdb
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\bin\Debug\StuBot.xml
+C:\Users\Wheel\Desktop\TGM_Bot\Resources\StuBot.exe.config
+C:\Users\Wheel\Desktop\TGM_Bot\Resources\StuBot.exe
+C:\Users\Wheel\Desktop\TGM_Bot\Resources\StuBot.pdb
+C:\Users\Wheel\Desktop\TGM_Bot\Resources\StuBot.xml
+C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\Resources\StuBot.exe.config
+C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\Resources\StuBot.exe
+C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\Resources\StuBot.pdb
+C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\Resources\StuBot.xml
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\obj\Debug\StuBot.Form1.resources
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\obj\Debug\StuBot.Resources.resources
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\obj\Debug\StuBot.vbproj.GenerateResource.Cache
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\obj\Debug\StuBot.exe
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\obj\Debug\StuBot.xml
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\obj\Debug\StuBot.pdb
+C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\Resources\StuBot.exe.config
+C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\Resources\StuBot.exe
+C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\Resources\StuBot.pdb
+C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\Resources\StuBot.xml
+C:\Users\Wheel\Desktop\Nuova cartella\StuBot\obj\Debug\StuBot.vbprojResolveAssemblyReference.cache
+C:\Users\Wheel\Desktop\Nuova cartella\StuBot\obj\Debug\StuBot.Form1.resources
+C:\Users\Wheel\Desktop\Nuova cartella\StuBot\obj\Debug\StuBot.Resources.resources
+C:\Users\Wheel\Desktop\Nuova cartella\StuBot\obj\Debug\StuBot.vbproj.GenerateResource.Cache
+C:\Users\Wheel\Desktop\Nuova cartella\StuBot\obj\Debug\StuBot.exe
+C:\Users\Wheel\Desktop\Nuova cartella\StuBot\obj\Debug\StuBot.xml
+C:\Users\Wheel\Desktop\Nuova cartella\StuBot\obj\Debug\StuBot.pdb
