@@ -1,4 +1,6 @@
 ﻿Public Class Form1
+    'Developed by X
+    
     Public StrConn As String = "-", id As String = "-", Critcal As Boolean = False, StartLoad As Boolean = False
     Private isrecording As Boolean = False
     Private Class NativeMethods
