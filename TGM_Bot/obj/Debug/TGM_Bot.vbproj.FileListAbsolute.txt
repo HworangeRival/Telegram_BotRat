@@ -8,14 +8,4 @@ C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\obj\Debug\TGM_Bot.vbproj.GenerateResource
 C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\obj\Debug\TGM_Bot.exe
 C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\obj\Debug\TGM_Bot.xml
 C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\obj\Debug\TGM_Bot.pdb
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\bin\Debug\TGM_Bot.exe.config
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\obj\Debug\TGM_Bot.exe
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\obj\Debug\TGM_Bot.xml
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\obj\Debug\TGM_Bot.pdb
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\bin\Debug\TGM_Bot.exe
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\bin\Debug\TGM_Bot.pdb
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\bin\Debug\TGM_Bot.xml
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\obj\Debug\TGM_Bot.vbprojResolveAssemblyReference.cache
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\obj\Debug\TGM_Bot.Mainer.resources
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\obj\Debug\TGM_Bot.Resources.resources
-C:\Users\Wheel\Desktop\Nuova cartella\TGM_Bot\obj\Debug\TGM_Bot.vbproj.GenerateResource.Cache
+C:\Users\Wheel\Desktop\TGM_Bot\TGM_Bot\obj\Debug\TGM_Bot.vbprojResolveAssemblyReference.cache

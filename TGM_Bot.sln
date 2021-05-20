@@ -9,6 +9,11 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TGM_Bot", "TGM_Bot\TGM_Bot.
 	EndProjectSection
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StuBot", "StuBot\StuBot.vbproj", "{585D252B-E632-4348-AF93-6743FF76840A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7F6727C3-3EAB-4576-BF01-1830070882C9} = {7F6727C3-3EAB-4576-BF01-1830070882C9}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ChildBot", "ChildBot\ChildBot.vbproj", "{7F6727C3-3EAB-4576-BF01-1830070882C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +29,10 @@ Global
 		{585D252B-E632-4348-AF93-6743FF76840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{585D252B-E632-4348-AF93-6743FF76840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{585D252B-E632-4348-AF93-6743FF76840A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6727C3-3EAB-4576-BF01-1830070882C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6727C3-3EAB-4576-BF01-1830070882C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6727C3-3EAB-4576-BF01-1830070882C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6727C3-3EAB-4576-BF01-1830070882C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

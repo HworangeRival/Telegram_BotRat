@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("TGM_Bot")>
+<Assembly: AssemblyTitle("ChildBot")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("TGM_Bot")>
+<Assembly: AssemblyProduct("ChildBot")>
 <Assembly: AssemblyCopyright("Copyright ©  2021")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("02d63e0c-c010-45e1-bb43-570ef0a9286a")>
+<Assembly: Guid("10adc42d-a484-4ba6-9b4e-0773e7db5855")>
 
 ' Version information for an assembly consists of the following four values:
 '

@@ -1,0 +1,12 @@
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\bin\Debug\ChildBot.exe
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\bin\Debug\ChildBot.pdb
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\bin\Debug\ChildBot.xml
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\obj\Debug\ChildBot.Form1.resources
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\obj\Debug\ChildBot.Resources.resources
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\obj\Debug\ChildBot.vbproj.GenerateResource.Cache
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\obj\Debug\ChildBot.exe
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\obj\Debug\ChildBot.xml
+C:\Users\Wheel\Desktop\TGM_Bot\ChildBot\obj\Debug\ChildBot.pdb
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\Resources\ChildBot.exe
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\Resources\ChildBot.pdb
+C:\Users\Wheel\Desktop\TGM_Bot\StuBot\Resources\ChildBot.xml

