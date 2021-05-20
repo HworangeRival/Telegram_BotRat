@@ -26,7 +26,7 @@ by ..:: Hworange Rival ::..
  
  ‼️ Enjoy!!
  
- I'm not responsable for Use of this Software.
+ I'm not responsable for Use of this Software. Some features as work in progress...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
